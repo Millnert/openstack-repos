@@ -1,95 +1,95 @@
 # Core projects
-https://github.com/openstack/heat.git
-https://github.com/openstack/neutron.git
-https://github.com/openstack/nova.git
-https://github.com/openstack/cinder.git
-https://github.com/openstack/glance.git
-https://github.com/openstack/manila.git
-https://github.com/openstack/murano.git
-https://github.com/openstack/horizon.git
-https://github.com/openstack/terracotta.git
-https://github.com/openstack/barbican.git
-https://github.com/openstack/kolla.git
-https://github.com/openstack/governance.git
-https://github.com/openstack/keystone.git
-https://github.com/openstack/ironic.git
-https://github.com/openstack/swift.git
-https://github.com/openstack/swift3.git
-https://github.com/openstack/sahara.git
-https://github.com/openstack/ceilometer.git
-https://github.com/openstack/tempest.git
-https://github.com/openstack/rally.git
-https://github.com/openstack/refstack.git
+git://git.openstack.org/openstack/heat.git
+git://git.openstack.org/openstack/neutron.git
+git://git.openstack.org/openstack/nova.git
+git://git.openstack.org/openstack/cinder.git
+git://git.openstack.org/openstack/glance.git
+git://git.openstack.org/openstack/manila.git
+git://git.openstack.org/openstack/murano.git
+git://git.openstack.org/openstack/horizon.git
+git://git.openstack.org/openstack/terracotta.git
+git://git.openstack.org/openstack/barbican.git
+git://git.openstack.org/openstack/kolla.git
+git://git.openstack.org/openstack/governance.git
+git://git.openstack.org/openstack/keystone.git
+git://git.openstack.org/openstack/ironic.git
+git://git.openstack.org/openstack/swift.git
+git://git.openstack.org/openstack/swift3.git
+git://git.openstack.org/openstack/sahara.git
+git://git.openstack.org/openstack/ceilometer.git
+git://git.openstack.org/openstack/tempest.git
+git://git.openstack.org/openstack/rally.git
+git://git.openstack.org/openstack/refstack.git
 
 # Core project - specs
-https://github.com/openstack/ceilometer-specs.git
-https://github.com/openstack/cinder-specs.git
-https://github.com/openstack/glance-specs.git
-https://github.com/openstack/keystone-specs.git
-https://github.com/openstack/neutron-specs.git
-https://github.com/openstack/nova-specs.git
-https://github.com/openstack/openstack-specs.git
+git://git.openstack.org/openstack/ceilometer-specs.git
+git://git.openstack.org/openstack/cinder-specs.git
+git://git.openstack.org/openstack/glance-specs.git
+git://git.openstack.org/openstack/keystone-specs.git
+git://git.openstack.org/openstack/neutron-specs.git
+git://git.openstack.org/openstack/nova-specs.git
+git://git.openstack.org/openstack/openstack-specs.git
 
 # Other projects
-https://github.com/openstack/murano-dashboard.git
-https://github.com/openstack/sahara-dashboard.git
-https://github.com/openstack/rally.git
-https://github.com/openstack/tempest.git
+git://git.openstack.org/openstack/murano-dashboard.git
+git://git.openstack.org/openstack/sahara-dashboard.git
+git://git.openstack.org/openstack/rally.git
+git://git.openstack.org/openstack/tempest.git
 
 # Other projects - specs
-https://github.com/openstack/barbican-specs.git
-https://github.com/openstack/oslo-specs.git
-https://github.com/openstack/sahara-specs.git
-https://github.com/openstack/security-specs.git
-https://github.com/openstack/swift-specs.git
+git://git.openstack.org/openstack/barbican-specs.git
+git://git.openstack.org/openstack/oslo-specs.git
+git://git.openstack.org/openstack/sahara-specs.git
+git://git.openstack.org/openstack/security-specs.git
+git://git.openstack.org/openstack/swift-specs.git
 
 # Utils etc
-https://github.com/openstack/diskimage-builder.git
+git://git.openstack.org/openstack/diskimage-builder.git
 
 # Core Clients
-https://github.com/openstack/os-client-config.git
-https://github.com/openstack/python-ceilometerclient.git
-https://github.com/openstack/python-cinderclient.git
-https://github.com/openstack/python-glanceclient.git
-https://github.com/openstack/python-keystoneclient.git
-https://github.com/openstack/python-heatclient.git
-https://github.com/openstack/python-neutronclient.git
-https://github.com/openstack/python-novaclient.git
-https://github.com/openstack/python-openstackclient.git
-https://github.com/openstack/python-swiftclient.git
+git://git.openstack.org/openstack/os-client-config.git
+git://git.openstack.org/openstack/python-ceilometerclient.git
+git://git.openstack.org/openstack/python-cinderclient.git
+git://git.openstack.org/openstack/python-glanceclient.git
+git://git.openstack.org/openstack/python-keystoneclient.git
+git://git.openstack.org/openstack/python-heatclient.git
+git://git.openstack.org/openstack/python-neutronclient.git
+git://git.openstack.org/openstack/python-novaclient.git
+git://git.openstack.org/openstack/python-openstackclient.git
+git://git.openstack.org/openstack/python-swiftclient.git
 
 # Other Clients
-https://github.com/openstack/python-ironicclient.git
-https://github.com/openstack/python-refstackclient.git
-https://github.com/openstack/python-saharaclient.git
+git://git.openstack.org/openstack/python-ironicclient.git
+git://git.openstack.org/openstack/python-refstackclient.git
+git://git.openstack.org/openstack/python-saharaclient.git
 
 # Puppet - core projects
-https://github.com/openstack/puppet-ceilometer.git
-https://github.com/openstack/puppet-cinder.git
-https://github.com/openstack/puppet-glance.git
-https://github.com/openstack/puppet-heat.git
-https://github.com/openstack/puppet-horizon.git
-https://github.com/openstack/puppet-keystone.git
-https://github.com/openstack/puppet-nova.git
-https://github.com/openstack/puppet-oslo.git
-https://github.com/openstack/puppet-openstacklib.git
+git://git.openstack.org/openstack/puppet-ceilometer.git
+git://git.openstack.org/openstack/puppet-cinder.git
+git://git.openstack.org/openstack/puppet-glance.git
+git://git.openstack.org/openstack/puppet-heat.git
+git://git.openstack.org/openstack/puppet-horizon.git
+git://git.openstack.org/openstack/puppet-keystone.git
+git://git.openstack.org/openstack/puppet-nova.git
+git://git.openstack.org/openstack/puppet-oslo.git
+git://git.openstack.org/openstack/puppet-openstacklib.git
 
 # Puppet - other projects
-https://github.com/openstack/puppet-ceph.git
-https://github.com/openstack/puppet-ironic.git
-https://github.com/openstack/puppet-openstack_extras.git
-https://github.com/openstack/puppet-sahara.git
-https://github.com/openstack/puppet-swift.git
-https://github.com/openstack/puppet-tempest.git
+git://git.openstack.org/openstack/puppet-ceph.git
+git://git.openstack.org/openstack/puppet-ironic.git
+git://git.openstack.org/openstack/puppet-openstack_extras.git
+git://git.openstack.org/openstack/puppet-sahara.git
+git://git.openstack.org/openstack/puppet-swift.git
+git://git.openstack.org/openstack/puppet-tempest.git
 
 # Docs
-https://github.com/openstack/openstack-manuals.git
-https://github.com/openstack/docs-specs.git
+git://git.openstack.org/openstack/openstack-manuals.git
+git://git.openstack.org/openstack/docs-specs.git
 
 # TC etc, openstack common/central/admin
-https://github.com/openstack/packetary.git
-https://github.com/openstack/requirements.git
+git://git.openstack.org/openstack/packetary.git
+git://git.openstack.org/openstack/requirements.git
 
-https://github.com/openstack/oslo.messaging.git
-https://github.com/openstack/oslo.config.git
-https://github.com/openstack/oslo.utils.git
+git://git.openstack.org/openstack/oslo.messaging.git
+git://git.openstack.org/openstack/oslo.config.git
+git://git.openstack.org/openstack/oslo.utils.git
