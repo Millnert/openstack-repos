@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Todo
+# 1. Add check of installed programs (git, git-review)
+# 2. Make sure git and git-review are configured
+# 3. Add configuration of git-review for each checked-out repo
+
 # https://stackoverflow.com/questions/10312521/how-to-fetch-all-git-branches
 for repourl in `grep -vE '^#' repos.txt` ; do
 	reponame=`echo $repourl | sed -e 's/.*\/\(.*\)\.git$/\1/g'`
@@ -12,3 +17,8 @@ for repourl in `grep -vE '^#' repos.txt` ; do
 		echo "Something is strange with $reponame - please investigate!"
 	fi
 done
+
+wait
+echo ""
+echo ""
+echo "Checkout / Clone completed"
