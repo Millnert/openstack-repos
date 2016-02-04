@@ -1,47 +1,71 @@
 # Core projects
-git://git.openstack.org/openstack/heat.git
-git://git.openstack.org/openstack/neutron.git
-git://git.openstack.org/openstack/nova.git
+git://git.openstack.org/openstack/ceilometer.git
 git://git.openstack.org/openstack/cinder.git
 git://git.openstack.org/openstack/glance.git
-git://git.openstack.org/openstack/manila.git
-git://git.openstack.org/openstack/murano.git
+git://git.openstack.org/openstack/heat.git
 git://git.openstack.org/openstack/horizon.git
-git://git.openstack.org/openstack/terracotta.git
-git://git.openstack.org/openstack/barbican.git
-git://git.openstack.org/openstack/kolla.git
-git://git.openstack.org/openstack/governance.git
 git://git.openstack.org/openstack/keystone.git
-git://git.openstack.org/openstack/ironic.git
+git://git.openstack.org/openstack/neutron.git
+git://git.openstack.org/openstack/nova.git
 git://git.openstack.org/openstack/swift.git
-git://git.openstack.org/openstack/swift3.git
-git://git.openstack.org/openstack/sahara.git
-git://git.openstack.org/openstack/ceilometer.git
-git://git.openstack.org/openstack/tempest.git
-git://git.openstack.org/openstack/rally.git
-git://git.openstack.org/openstack/refstack.git
 
 # Core project - specs
 git://git.openstack.org/openstack/ceilometer-specs.git
 git://git.openstack.org/openstack/cinder-specs.git
 git://git.openstack.org/openstack/glance-specs.git
+git://git.openstack.org/openstack/heat-specs.git
 git://git.openstack.org/openstack/keystone-specs.git
 git://git.openstack.org/openstack/neutron-specs.git
 git://git.openstack.org/openstack/nova-specs.git
-git://git.openstack.org/openstack/openstack-specs.git
+git://git.openstack.org/openstack/swift-specs.git
+
+# Oslo
+git://git.openstack.org/openstack/oslo-incubator.git
+git://git.openstack.org/openstack/oslo-specs.git
+git://git.openstack.org/openstack/oslo.cache.git
+git://git.openstack.org/openstack/oslo.concurrency.git
+git://git.openstack.org/openstack/oslo.config.git
+git://git.openstack.org/openstack/oslo.context.git
+git://git.openstack.org/openstack/oslo.db.git
+git://git.openstack.org/openstack/oslo.i18n.git
+git://git.openstack.org/openstack/oslo.log.git
+git://git.openstack.org/openstack/oslo.messaging.git
+git://git.openstack.org/openstack/oslo.middleware.git
+git://git.openstack.org/openstack/oslo.policy.git
+git://git.openstack.org/openstack/oslo.privsep.git
+git://git.openstack.org/openstack/oslo.reports.git
+git://git.openstack.org/openstack/oslo.rootwrap.git
+git://git.openstack.org/openstack/oslo.serialization.git
+git://git.openstack.org/openstack/oslo.service.git
+git://git.openstack.org/openstack/oslo.utils.git
+git://git.openstack.org/openstack/oslo.versionedobjects.git
+git://git.openstack.org/openstack/oslo.vmware.git
+git://git.openstack.org/openstack/oslosphinx.git
+git://git.openstack.org/openstack/oslotest.git
 
 # Other projects
+git://git.openstack.org/openstack/barbican.git
+git://git.openstack.org/openstack/ironic.git
+git://git.openstack.org/openstack/kolla.git
+git://git.openstack.org/openstack/manila.git
+git://git.openstack.org/openstack/murano.git
 git://git.openstack.org/openstack/murano-dashboard.git
-git://git.openstack.org/openstack/sahara-dashboard.git
 git://git.openstack.org/openstack/rally.git
+git://git.openstack.org/openstack/refstack.git
+git://git.openstack.org/openstack/sahara.git
+git://git.openstack.org/openstack/sahara-dashboard.git
+git://git.openstack.org/openstack/swift3.git
 git://git.openstack.org/openstack/tempest.git
+git://git.openstack.org/openstack/terracotta.git
+git://git.openstack.org/openstack/trove.git
+git://git.openstack.org/openstack/trove-dashboard.git
 
 # Other projects - specs
 git://git.openstack.org/openstack/barbican-specs.git
 git://git.openstack.org/openstack/oslo-specs.git
 git://git.openstack.org/openstack/sahara-specs.git
 git://git.openstack.org/openstack/security-specs.git
-git://git.openstack.org/openstack/swift-specs.git
+git://git.openstack.org/openstack/trove-specs.git
 
 # Utils etc
 git://git.openstack.org/openstack/diskimage-builder.git
@@ -83,13 +107,14 @@ git://git.openstack.org/openstack/puppet-swift.git
 git://git.openstack.org/openstack/puppet-tempest.git
 
 # Docs
-git://git.openstack.org/openstack/openstack-manuals.git
 git://git.openstack.org/openstack/docs-specs.git
+git://git.openstack.org/openstack/openstack-manuals.git
+git://git.openstack.org/openstack/training-guides.git
+git://git.openstack.org/openstack/training-labs.git
 
 # TC etc, openstack common/central/admin
+git://git.openstack.org/openstack/governance.git
+git://git.openstack.org/openstack/openstack-specs.git
 git://git.openstack.org/openstack/packetary.git
 git://git.openstack.org/openstack/requirements.git
 
-git://git.openstack.org/openstack/oslo.messaging.git
-git://git.openstack.org/openstack/oslo.config.git
-git://git.openstack.org/openstack/oslo.utils.git
