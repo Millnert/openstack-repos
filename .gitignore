@@ -1,0 +1,5 @@
+*
+!.gitignore
+!clean_all.sh
+!git_pull_clone.sh
+!repos.txt
