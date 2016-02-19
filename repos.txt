@@ -84,8 +84,8 @@ git://git.openstack.org/openstack/python-swiftclient.git
 
 # Other Clients
 git://git.openstack.org/openstack/python-ironicclient.git
-git://git.openstack.org/openstack/python-refstackclient.git
 git://git.openstack.org/openstack/python-saharaclient.git
+git://git.openstack.org/openstack/refstack-client.git
 
 # Puppet - core projects
 git://git.openstack.org/openstack/puppet-ceilometer.git
@@ -94,6 +94,7 @@ git://git.openstack.org/openstack/puppet-glance.git
 git://git.openstack.org/openstack/puppet-heat.git
 git://git.openstack.org/openstack/puppet-horizon.git
 git://git.openstack.org/openstack/puppet-keystone.git
+git://git.openstack.org/openstack/puppet-neutron.git
 git://git.openstack.org/openstack/puppet-nova.git
 git://git.openstack.org/openstack/puppet-oslo.git
 git://git.openstack.org/openstack/puppet-openstacklib.git
