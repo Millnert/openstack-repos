@@ -107,6 +107,19 @@ git://git.openstack.org/openstack/puppet-sahara.git
 git://git.openstack.org/openstack/puppet-swift.git
 git://git.openstack.org/openstack/puppet-tempest.git
 
+# Ops
+git://git.openstack.org/openstack/osops-coda
+git://git.openstack.org/openstack/osops-example-configs
+git://git.openstack.org/openstack/osops-tools-contrib
+git://git.openstack.org/openstack/osops-tools-generic
+git://git.openstack.org/openstack/osops-tools-logging
+git://git.openstack.org/openstack/osops-tools-monitoring
+git://git.openstack.org/openstack/osprofiler
+git://git.openstack.org/openstack/ospurge
+
+# Infra
+git://git.openstack.org/openstack-infra/jenkins-job-builder
+
 # Docs
 git://git.openstack.org/openstack/docs-specs.git
 git://git.openstack.org/openstack/openstack-manuals.git
