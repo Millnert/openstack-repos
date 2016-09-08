@@ -121,6 +121,7 @@ git://git.openstack.org/openstack/ospurge
 git://git.openstack.org/openstack-infra/jenkins-job-builder
 
 # Docs
+git://git.openstack.org/openstack/api-site.git
 git://git.openstack.org/openstack/docs-specs.git
 git://git.openstack.org/openstack/openstack-manuals.git
 git://git.openstack.org/openstack/training-guides.git
