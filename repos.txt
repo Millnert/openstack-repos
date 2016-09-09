@@ -80,6 +80,7 @@ git://git.openstack.org/openstack/python-heatclient.git
 git://git.openstack.org/openstack/python-neutronclient.git
 git://git.openstack.org/openstack/python-novaclient.git
 git://git.openstack.org/openstack/python-openstackclient.git
+git://git.openstack.org/openstack/python-openstacksdk.git
 git://git.openstack.org/openstack/python-swiftclient.git
 
 # Other Clients
