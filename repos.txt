@@ -45,6 +45,7 @@ git://git.openstack.org/openstack/oslotest.git
 
 # Other projects
 git://git.openstack.org/openstack/barbican.git
+git://git.openstack.org/openstack/django_openstack_auth.git
 git://git.openstack.org/openstack/ironic.git
 git://git.openstack.org/openstack/kolla.git
 git://git.openstack.org/openstack/manila.git
@@ -84,6 +85,7 @@ git://git.openstack.org/openstack/python-openstacksdk.git
 git://git.openstack.org/openstack/python-swiftclient.git
 
 # Other Clients
+git://git.openstack.org/openstack/keystoneauth.git
 git://git.openstack.org/openstack/python-ironicclient.git
 git://git.openstack.org/openstack/python-saharaclient.git
 git://git.openstack.org/openstack/refstack-client.git
