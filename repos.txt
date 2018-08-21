@@ -44,6 +44,7 @@ git://git.openstack.org/openstack/oslosphinx.git
 git://git.openstack.org/openstack/oslotest.git
 
 # Other projects
+git://git.openstack.org/openstack/almanach.git
 git://git.openstack.org/openstack/barbican.git
 git://git.openstack.org/openstack/django_openstack_auth.git
 git://git.openstack.org/openstack/ironic.git
